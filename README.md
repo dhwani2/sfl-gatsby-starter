@@ -1,8 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p>
-   <b>Name:</b>Dhwani Vaishnav
-    
-
+   <b>Name: </b>Dhwani Vaishnav
+   Software For Love software developer challenge
 </p>
 
 <p align="center">
