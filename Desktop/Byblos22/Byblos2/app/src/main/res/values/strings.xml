@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Byblos</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnRegister">Register</string>
+    <string name="loginTitle">Login To Byblos</string>
+    <string name="usernameTxt">Username</string>
+    <string name="passwordTxt">Password</string>
+    <string name="registerTitle">Register to Byblos</string>
+    <string name="nameTxt">First name</string>
+    <string name="welcome_text">Welcome</string>
+    <string name="errorMessage">Invalid field. Please try again.</string>
+    <string name="addServices">Add Services</string>
+    <string name="editServices">Edit Services</string>
+    <string name="deleteServices">Delete Services</string>
+    <string-array name="typeAccount">
+        <item>Pick an account type</item>
+        <item>Employee</item>
+        <item>Customer</item>
+    </string-array>
+</resources>
